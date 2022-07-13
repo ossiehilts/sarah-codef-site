@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ on Home</title>
+    <link>https://gohugo-theme-ananke.pages.dev/faq/</link>
+    <description>Recent content in FAQ on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jul 2022 14:49:32 +0100</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/faq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>_Question One</title>
+      <link>https://gohugo-theme-ananke.pages.dev/faq/_question-one/</link>
+      <pubDate>Tue, 12 Jul 2022 14:51:34 +0100</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/faq/_question-one/</guid>
+      <description>Who are you?</description>
+    </item>
+    
+  </channel>
+</rss>
